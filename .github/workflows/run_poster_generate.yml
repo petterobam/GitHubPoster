@@ -99,7 +99,7 @@ jobs:
       - name: Run sync kindle script
         if: contains(env.TYPE, 'kindle')
         run: |
-          python cli.py --type kindle --kindle_cookie  '${{ secrets.KINDLE_COOKIE }} --me ${{ env.ME }}
+          python cli.py --type kindle --kindle_cookie  '${{ secrets.KINDLE_COOKIE }}' --me ${{ env.ME }}
           
       - name: Run sync bilibili script
         if: contains(env.TYPE, 'bilibili')
