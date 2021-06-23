@@ -12,7 +12,7 @@ env:
   # please change to your own config.
   # this actions generate only this year
   # If you fork this please change the type to yours below
-  TYPE: 'github,bilibili' # support strava/gpx/ns/cichang/shanbay/duolingo/issue/leetcode/twitter/github/gitlab/kindle/bilibili/wakatime/dota2, Please change the 'pass' it to your own separated by commas
+  TYPE: 'github,bilibili,leetcode' # support strava/gpx/ns/cichang/shanbay/duolingo/issue/leetcode/twitter/github/gitlab/kindle/bilibili/wakatime/dota2, Please change the 'pass' it to your own separated by commas
   ME: petterobam
   GITHUB_NAME: petterobam
   GITHUB_EMAIL: 1460300366@qq.com
