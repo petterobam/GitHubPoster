@@ -20,7 +20,7 @@
 ### Github
 
 ```
-![](https://github.com/petterobam/GitHubPoster/blob/main/examples/github.svg)
+![](https://raw.githubusercontent.com/petterobam/GitHubPoster/main/examples/github.svg)
 ```
 
 ![](./examples/github.svg)
@@ -28,7 +28,7 @@
 ### Bilibili
 
 ```
-![](https://github.com/petterobam/GitHubPoster/blob/main/examples/bilibili.svg)
+![](https://raw.githubusercontent.com/petterobam/GitHubPoster/main/examples/bilibili.svg)
 ```
 
 ![](./examples/bilibili.svg)
@@ -36,7 +36,7 @@
 ### leetcode
 
 ```
-![](https://github.com/petterobam/GitHubPoster/blob/main/examples/leetcode.svg)
+![](https://raw.githubusercontent.com/petterobam/GitHubPoster/main/examples/leetcode.svg)
 ```
 
 ![](./examples/leetcode.svg)
